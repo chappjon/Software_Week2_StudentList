@@ -76,7 +76,7 @@ public class Student
     /**
      * @param isFullTime the isFullTime to set
      */
-    public void setIsFullTime(boolean isFullTime) {
-        this.isFullTime = isFullTime;
+    public void setIsFullTime(boolean setFullTime) {
+        isFullTime = setFullTime;
     }
 }
